@@ -1,2 +1,4 @@
 # MakeFile_For_C_CPP
-This is a generic makefile for Projects with multiple C and CPP Files
+
+- This generic makefile template can be directly used for C/C++ projects
+  building and configured based on customised requirements.
